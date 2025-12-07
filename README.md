@@ -48,13 +48,3 @@ Para compilar y ejecutar el código de ejemplo, necesitarás tener instalado:
 * **JDK (Java Development Kit)**
 * **Kotlin Compiler** (Generalmente incluido en IDEs como IntelliJ IDEA o Android Studio)
 
----
-
-## 📝 Uso
-
-1.  Clona el repositorio:
-    ```bash
-    git clone [https://docs.github.com/es/repositories/creating-and-managing-repositories/quickstart-for-repositories](https://docs.github.com/es/repositories/creating-and-managing-repositories/quickstart-for-repositories)
-    ```
-2.  Abre el proyecto en tu IDE preferido (se recomienda **IntelliJ IDEA**).
-3.  Explora los archivos `.kt` para ver los ejemplos de código y las explicaciones.
